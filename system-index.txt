@@ -1,0 +1,8 @@
+software/alexandria-20150505-git/alexandria-tests.asd
+software/alexandria-20150505-git/alexandria.asd
+software/cl-store-20141106-git/cl-store.asd
+software/ltk-20150113-http/ltk-mw.asd
+software/ltk-20150113-http/ltk-remote.asd
+software/ltk-20150113-http/ltk.asd
+software/split-sequence-1.2/split-sequence.asd
+software/translate-20150923-git/translate.asd
