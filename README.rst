@@ -182,7 +182,9 @@ Rządu który położył fundamenty pod budowę wolnej i demokratycznej Polski.
 Final info
 =====
 
-Feel free to use this tool if you cite: http://arxiv.org/abs/1601.02789
+Feel free to use this tool if you cite: Wołk, K., Korzinek, D., & Marasek, K. (2017). Semi-automatic and Human-Aided Translation Evaluation Metric (HMEANT) for Polish Language in Re-speaking and MT Assessment. In Multimedia and Network Information Systems (pp. 241-249). Springer International Publishing.
+
+http://arxiv.org/abs/1601.02789
 
 For more detailed usage instruction see howto.pdf.
 
